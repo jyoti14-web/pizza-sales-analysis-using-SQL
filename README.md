@@ -13,3 +13,4 @@ THis project is done using Deepnote which is like the jupyter on streoids which 
 3. Category-Wise Analysis: Analyze sales based on different pizza categories.
 5. Top-Selling Items: Identify the best-selling pizzas.
 6 Customer Insights: Gain insights into customer preferences and behaviors.
+7.Contributed by Jyoti Pal as part of GitHub Pull Request practice.
